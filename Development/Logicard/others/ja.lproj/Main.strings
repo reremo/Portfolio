@@ -1,0 +1,324 @@
+
+/* Class = "UILabel"; text = "5"; ObjectID = "0Ar-C8-hij"; */
+"0Ar-C8-hij.text" = "5";
+
+/* Class = "UIButton"; normalTitle = "？"; ObjectID = "0L3-IU-z16"; */
+"0L3-IU-z16.normalTitle" = "？";
+
+/* Class = "UILabel"; text = "8"; ObjectID = "1TU-th-Rz5"; */
+"1TU-th-Rz5.text" = "8";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "2L4-vI-vND"; */
+"2L4-vI-vND.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "▷"; ObjectID = "2rf-dJ-Lod"; */
+"2rf-dJ-Lod.normalTitle" = "▷";
+
+/* Class = "UIButton"; normalTitle = "9"; ObjectID = "2xp-wT-TxM"; */
+"2xp-wT-TxM.normalTitle" = "9";
+
+/* Class = "UILabel"; text = "7"; ObjectID = "3G1-s2-Asb"; */
+"3G1-s2-Asb.text" = "7";
+
+/* Class = "UILabel"; text = "What's the total of middle 3 cards?"; ObjectID = "3Zg-ef-Ovi"; */
+"3Zg-ef-Ovi.text" = "What's the total of middle 3 cards?";
+
+/* Class = "UILabel"; text = "Where're serial number cards?"; ObjectID = "3d1-ZF-9eg"; */
+"3d1-ZF-9eg.text" = "Where're serial number cards?";
+
+/* Class = "UILabel"; text = "C5"; ObjectID = "3ye-Se-eOI"; */
+"3ye-Se-eOI.text" = "C5";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "5AD-Q1-EKK"; */
+"5AD-Q1-EKK.text" = "0";
+
+/* Class = "UILabel"; text = "[C] What's the total of all cards?"; ObjectID = "5H1-Nv-obq"; */
+"5H1-Nv-obq.text" = "[C] What's the total of all cards?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6rx-2S-ncJ"; */
+"6rx-2S-ncJ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "8X1-6z-sDf"; */
+"8X1-6z-sDf.text" = "5";
+
+/* Class = "UILabel"; text = "8"; ObjectID = "9Bc-4A-orA"; */
+"9Bc-4A-orA.text" = "8";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "9RX-dm-lLA"; */
+"9RX-dm-lLA.normalTitle" = "2";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ado-Qy-Maw"; */
+"Ado-Qy-Maw.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Opponent Deck"; ObjectID = "B8a-Ge-8Rh"; */
+"B8a-Ge-8Rh.text" = "Opponent Deck";
+
+/* Class = "UIButton"; normalTitle = "?"; ObjectID = "BGj-Ge-ZfH"; */
+"BGj-Ge-ZfH.normalTitle" = "?";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "CX8-NA-uVp"; */
+"CX8-NA-uVp.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "CqF-k5-L5o"; */
+"CqF-k5-L5o.text" = "4";
+
+/* Class = "UILabel"; text = "Second"; ObjectID = "D3Q-tH-Siu"; */
+"D3Q-tH-Siu.text" = "Second";
+
+/* Class = "UILabel"; text = "9"; ObjectID = "DJU-eu-Xwx"; */
+"DJU-eu-Xwx.text" = "9";
+
+/* Class = "UITextView"; text = "And, 6 question cards are taken. These are shared by each player.\n\n3. How to play\nYou can use one question card in every turn. If you estimate opponent's hand, you can \"challenge\". If your \"challenge\" is perfectly successful, which means you guess both number and color correctly, you are win! You can use either a 'question card' or ‘challenge' in one turn. You cannot use both.\n\n4. Furthermore\n・The question cards including [C] are Common Informateion Cards.  If you use these cards the answer is revealed to your opponent. Therefore, carefully choose the time to use these cards.\n\n・When you choose a question card that asks \"or\", for example \"Where're 1s or 2s?\" etc. you must choose one number only. For example, \"Where’re 2s?\"\n\n・First player and Second Plyer are automatically decided.  If the first player has a successful challenge, the second player must then also challenge. Then if the second player also is successful with their challenge, the game is drawn.\n\n・The first player has a time limit of 1 and a half minutes in first turn. For every turn after, there is a time limit of 1 minutes. If you cannot make a play inside your given time you lose. If you interrupt this app, you lose also. \n\n・if all 21 question cards are used, you must \"challenge\".\n\n5. Hint\n・No cards are the same except the 5s which are green. Your hand helps you to correctly guess your opponents hand.\n\n・If there is a card you do not want opponent to use, try to use it first.\n\n・Have a look in the ‘opponent question field’ for clues to help you.\n\n・Remember that the 5s are the only green cards. \n\n・When you choose question card \"Where serial number cards?\" etc , don't forget the following: \n1,2,6,7,9\n1,3,4,4,5...\nFill in the blanks.\n\nLogicard is really simple and deep.\n"; ObjectID = "EiI-2k-UFA"; */
+"EiI-2k-UFA.text" = "And, 6 question cards are taken. These are shared by each player.\n\n3. How to play\nYou can use one question card in every turn. If you estimate opponent's hand, you can \"challenge\". If your \"challenge\" is perfectly successful, which means you guess both number and color correctly, you are win! You can use either a 'question card' or ‘challenge' in one turn. You cannot use both.\n\n4. Furthermore\n・The question cards including [C] are Common Informateion Cards.  If you use these cards the answer is revealed to your opponent. Therefore, carefully choose the time to use these cards.\n\n・When you choose a question card that asks \"or\", for example \"Where're 1s or 2s?\" etc. you must choose one number only. For example, \"Where’re 2s?\"\n\n・First player and Second Plyer are automatically decided.  If the first player has a successful challenge, the second player must then also challenge. Then if the second player also is successful with their challenge, the game is drawn.\n\n・The first player has a time limit of 1 and a half minutes in first turn. For every turn after, there is a time limit of 1 minutes. If you cannot make a play inside your given time you lose. If you interrupt this app, you lose also. \n\n・if all 21 question cards are used, you must \"challenge\".\n\n5. Hint\n・No cards are the same except the 5s which are green. Your hand helps you to correctly guess your opponents hand.\n\n・If there is a card you do not want opponent to use, try to use it first.\n\n・Have a look in the ‘opponent question field’ for clues to help you.\n\n・Remember that the 5s are the only green cards. \n\n・When you choose question card \"Where serial number cards?\" etc , don't forget the following: \n1,2,6,7,9\n1,3,4,4,5...\nFill in the blanks.\n\nLogicard is really simple and deep.\n";
+
+/* Class = "UILabel"; text = "Where're 0s?"; ObjectID = "EmZ-ZT-IAb"; */
+"EmZ-ZT-IAb.text" = "Where're 0s?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FEz-3U-wlP"; */
+"FEz-3U-wlP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Where're sequence same color?"; ObjectID = "FzU-yh-neE"; */
+"FzU-yh-neE.text" = "Where're sequence same color?";
+
+/* Class = "UILabel"; text = "How many even cards?"; ObjectID = "GfS-3x-lPC"; */
+"GfS-3x-lPC.text" = "How many even cards?";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Go4-bH-sG7"; */
+"Go4-bH-sG7.text" = "0";
+
+/* Class = "UILabel"; text = "Next: Rank Up Battle!"; ObjectID = "H0e-za-Yly"; */
+"H0e-za-Yly.text" = "Next: Rank Up Battle!";
+
+/* Class = "UILabel"; text = "<Note>"; ObjectID = "HUN-Qb-alc"; */
+"HUN-Qb-alc.text" = "<Note>";
+
+/* Class = "UILabel"; text = "Rate:200000"; ObjectID = "HYL-Ph-vHK"; */
+"HYL-Ph-vHK.text" = "Rate:200000";
+
+/* Class = "UILabel"; text = "Where're 6s or 7s?"; ObjectID = "Hiz-g3-5CO"; */
+"Hiz-g3-5CO.text" = "Where're 6s or 7s?";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "Hpj-Gb-QMq"; */
+"Hpj-Gb-QMq.normalTitle" = "close";
+
+/* Class = "UILabel"; text = "your question field"; ObjectID = "HrD-3F-i9G"; */
+"HrD-3F-i9G.text" = "your question field";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "IPe-v1-zGb"; */
+"IPe-v1-zGb.text" = "5";
+
+/* Class = "UIButton"; normalTitle = "？"; ObjectID = "IaH-EE-I0h"; */
+"IaH-EE-I0h.normalTitle" = "？";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "Ih5-eI-4Ce"; */
+"Ih5-eI-4Ce.text" = "3";
+
+/* Class = "UILabel"; text = "Where're 5s?"; ObjectID = "Iq9-S8-Nfl"; */
+"Iq9-S8-Nfl.text" = "Where're 5s?";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "LN4-Sy-Eml"; */
+"LN4-Sy-Eml.normalTitle" = "3";
+
+/* Class = "UILabel"; text = "Where're 3s or 4s?"; ObjectID = "LXF-rP-xAh"; */
+"LXF-rP-xAh.text" = "Where're 3s or 4s?";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "Lvr-iC-qgN"; */
+"Lvr-iC-qgN.text" = "5";
+
+/* Class = "UILabel"; text = "How many blue cards?"; ObjectID = "M7T-gi-x51"; */
+"M7T-gi-x51.text" = "How many blue cards?";
+
+/* Class = "UILabel"; text = "C5"; ObjectID = "NUR-2Y-ZLp"; */
+"NUR-2Y-ZLp.text" = "C5";
+
+/* Class = "UIButton"; normalTitle = "＋"; ObjectID = "NZI-md-rld"; */
+"NZI-md-rld.normalTitle" = "＋";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "OXF-dl-ztt"; */
+"OXF-dl-ztt.text" = "5";
+
+/* Class = "UILabel"; text = "<Your Deck>"; ObjectID = "P6P-jO-K9l"; */
+"P6P-jO-K9l.text" = "<Your Deck>";
+
+/* Class = "UILabel"; text = "ex)"; ObjectID = "PY3-fK-MRl"; */
+"PY3-fK-MRl.text" = "ex)";
+
+/* Class = "UILabel"; text = "Win"; ObjectID = "Pqd-AD-uTu"; */
+"Pqd-AD-uTu.text" = "Win";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "QbC-Ii-PDL"; */
+"QbC-Ii-PDL.text" = "5";
+
+/* Class = "UILabel"; text = "How many red cards?"; ObjectID = "Qmc-sv-pxw"; */
+"Qmc-sv-pxw.text" = "How many red cards?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "T0n-bX-gfo"; */
+"T0n-bX-gfo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "7"; ObjectID = "U5J-k0-yzE"; */
+"U5J-k0-yzE.text" = "7";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "UtY-hK-LUI"; */
+"UtY-hK-LUI.text" = "1";
+
+/* Class = "UILabel"; text = "[C] Is the middle card greater than 4?"; ObjectID = "VGb-e5-cow"; */
+"VGb-e5-cow.text" = "[C] Is the middle card greater than 4?";
+
+/* Class = "UIButton"; normalTitle = "☆"; ObjectID = "Vba-49-FTS"; */
+"Vba-49-FTS.normalTitle" = "☆";
+
+/* Class = "UILabel"; text = "What's the total of first 3 cards?"; ObjectID = "Xrb-rH-lPE"; */
+"Xrb-rH-lPE.text" = "What's the total of first 3 cards?";
+
+/* Class = "UILabel"; text = "What's the total of end 3 cards?"; ObjectID = "Xz7-rK-Psk"; */
+"Xz7-rK-Psk.text" = "What's the total of end 3 cards?";
+
+/* Class = "UIButton"; normalTitle = "Challenge"; ObjectID = "Y5Z-O2-z4Z"; */
+"Y5Z-O2-z4Z.normalTitle" = "Challenge";
+
+/* Class = "UILabel"; text = "9"; ObjectID = "Z3k-nN-4ba"; */
+"Z3k-nN-4ba.text" = "9";
+
+/* Class = "UILabel"; text = "Opponent Turn"; ObjectID = "ZBc-gL-zGR"; */
+"ZBc-gL-zGR.text" = "Opponent Turn";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "ZRO-rq-ewU"; */
+"ZRO-rq-ewU.text" = "2";
+
+/* Class = "UILabel"; text = "[C] What's the value of max - min?"; ObjectID = "Zbq-C4-XdW"; */
+"Zbq-C4-XdW.text" = "[C] What's the value of max - min?";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "Zqj-Qp-F7Y"; */
+"Zqj-Qp-F7Y.normalTitle" = "4";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "ZrH-T5-xTs"; */
+"ZrH-T5-xTs.text" = "5";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "agP-jC-ljy"; */
+"agP-jC-ljy.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "ajn-NU-M26"; */
+"ajn-NU-M26.text" = "2";
+
+/* Class = "UIButton"; normalTitle = "6"; ObjectID = "bME-OC-ipA"; */
+"bME-OC-ipA.normalTitle" = "6";
+
+/* Class = "UILabel"; text = "What's the total of blue cards?"; ObjectID = "cB6-3f-oy0"; */
+"cB6-3f-oy0.text" = "What's the total of blue cards?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cdn-lh-fcf"; */
+"cdn-lh-fcf.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "How many pairs of same number?"; ObjectID = "f5h-iZ-bdu"; */
+"f5h-iZ-bdu.text" = "How many pairs of same number?";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "fZz-t2-xaB"; */
+"fZz-t2-xaB.text" = "6";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "fii-4Q-xfc"; */
+"fii-4Q-xfc.text" = "2";
+
+/* Class = "UIButton"; normalTitle = "？"; ObjectID = "hAJ-tu-3Hg"; */
+"hAJ-tu-3Hg.normalTitle" = "？";
+
+/* Class = "UIButton"; normalTitle = "7"; ObjectID = "hR9-dl-aBH"; */
+"hR9-dl-aBH.normalTitle" = "7";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "hYL-0n-IFp"; */
+"hYL-0n-IFp.text" = "5";
+
+/* Class = "UIButton"; normalTitle = "？"; ObjectID = "ha7-Qr-vlq"; */
+"ha7-Qr-vlq.normalTitle" = "？";
+
+/* Class = "UILabel"; text = "What's the total of red cards?"; ObjectID = "hcu-lH-qsq"; */
+"hcu-lH-qsq.text" = "What's the total of red cards?";
+
+/* Class = "UILabel"; text = "Rate:200000"; ObjectID = "hqk-uC-6hz"; */
+"hqk-uC-6hz.text" = "Rate:200000";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "jg7-Kt-5KQ"; */
+"jg7-Kt-5KQ.text" = "4";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "kK5-AT-Htd"; */
+"kK5-AT-Htd.text" = "0";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "kR3-bA-clk"; */
+"kR3-bA-clk.text" = "3";
+
+/* Class = "UIButton"; normalTitle = "◁"; ObjectID = "kgf-WH-YCV"; */
+"kgf-WH-YCV.normalTitle" = "◁";
+
+/* Class = "UIButton"; normalTitle = "？"; ObjectID = "kwG-XD-wHa"; */
+"kwG-XD-wHa.normalTitle" = "？";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "l5r-Qk-rEW"; */
+"l5r-Qk-rEW.text" = "5";
+
+/* Class = "UIButton"; normalTitle = "5"; ObjectID = "lCv-8Z-h38"; */
+"lCv-8Z-h38.normalTitle" = "5";
+
+/* Class = "UILabel"; text = "scroll Locked"; ObjectID = "lTA-Mo-VyL"; */
+"lTA-Mo-VyL.text" = "scroll Locked";
+
+/* Class = "UIButton"; normalTitle = "◁"; ObjectID = "mf3-CM-aHJ"; */
+"mf3-CM-aHJ.normalTitle" = "◁";
+
+/* Class = "UIButton"; normalTitle = "close"; ObjectID = "mgY-iX-Rvx"; */
+"mgY-iX-Rvx.normalTitle" = "close";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "nF4-Wc-REC"; */
+"nF4-Wc-REC.text" = "3";
+
+/* Class = "UILabel"; text = "Where're 8s or 9s?"; ObjectID = "nOZ-xx-h0g"; */
+"nOZ-xx-h0g.text" = "Where're 8s or 9s?";
+
+/* Class = "UIButton"; normalTitle = "0"; ObjectID = "npC-7F-8ji"; */
+"npC-7F-8ji.normalTitle" = "0";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "o50-34-5CC"; */
+"o50-34-5CC.text" = "6";
+
+/* Class = "UILabel"; text = "Your Turn!"; ObjectID = "oSf-t2-eaC"; */
+"oSf-t2-eaC.text" = "Your Turn!";
+
+/* Class = "UILabel"; text = "Logicard"; ObjectID = "pje-Mj-eMN"; */
+"pje-Mj-eMN.text" = "Logicard";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "pso-df-NAM"; */
+"pso-df-NAM.normalTitle" = "1";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "qvE-py-rPA"; */
+"qvE-py-rPA.text" = "5";
+
+/* Class = "UIButton"; normalTitle = "8"; ObjectID = "rQx-8c-fkl"; */
+"rQx-8c-fkl.normalTitle" = "8";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "sDl-g1-dUZ"; */
+"sDl-g1-dUZ.text" = "3";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "tVL-ZS-Fs2"; */
+"tVL-ZS-Fs2.text" = "5";
+
+/* Class = "UILabel"; text = "eraser"; ObjectID = "v31-j1-sUM"; */
+"v31-j1-sUM.text" = "eraser";
+
+/* Class = "UILabel"; text = "10:00"; ObjectID = "vOm-bM-QVw"; */
+"vOm-bM-QVw.text" = "10:00";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "w1b-3d-ec6"; */
+"w1b-3d-ec6.text" = "1";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "wKw-M5-Ara"; */
+"wKw-M5-Ara.text" = "5";
+
+/* Class = "UILabel"; text = "Time limit"; ObjectID = "xEO-Z5-viJ"; */
+"xEO-Z5-viJ.text" = "Time limit";
+
+/* Class = "UILabel"; text = "Where're 1s or 2s?"; ObjectID = "yGT-wk-xsz"; */
+"yGT-wk-xsz.text" = "Where're 1s or 2s?";
+
+/* Class = "UILabel"; text = "opponent question field"; ObjectID = "zV4-3a-d6y"; */
+"zV4-3a-d6y.text" = "opponent question field";
+
+/* Class = "UILabel"; text = "How many odd cards?"; ObjectID = "zXj-ZB-cEa"; */
+"zXj-ZB-cEa.text" = "How many odd cards?";
